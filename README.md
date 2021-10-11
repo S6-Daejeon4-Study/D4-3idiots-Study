@@ -34,3 +34,13 @@
 1. 마법사 상어와 블리자드 (골드2) https://www.acmicpc.net/problem/21611
 >프로그래머스
 1. 가장 긴 팰린드롬 (Lv.3) https://programmers.co.kr/learn/courses/30/lessons/12904
+
+## 3주차
+### 일정 : 10/11 ~ 10/16
+### 스터디 : 10/17 오전 10시 (디스코드)
+### 주제
+>백준
+1. 마법사 상어와 블리자드 (골드2) https://www.acmicpc.net/problem/21611
+2. 마법사 상어와 비바라기 (골드5) https://www.acmicpc.net/problem/21610
+>프로그래머스
+1. 주식 가격 (Lv.2) https://programmers.co.kr/learn/courses/30/lessons/42584
