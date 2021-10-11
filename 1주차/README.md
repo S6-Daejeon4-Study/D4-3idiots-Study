@@ -33,10 +33,10 @@
 
 ### 이예나
 
--
--
--
--
+- [백준 1324 효율적인 해킹](https://github.com/S6-Daejeon4-Study/D4-4idiots-Study/blob/main/1%EC%A3%BC%EC%B0%A8/%EB%B0%B1%EC%A4%80%201325%20%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%95%B4%ED%82%B9/B1325_%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%ED%95%B4%ED%82%B9_%EC%9D%B4%EC%98%88%EB%82%98.java)
+- [백준 2468 안전 영역](https://github.com/S6-Daejeon4-Study/D4-4idiots-Study/blob/main/1%EC%A3%BC%EC%B0%A8/%EB%B0%B1%EC%A4%80%202468%20%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD/B2468_%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD_%EC%9D%B4%EC%98%88%EB%82%98.java)
+- [백준 6603 로또](https://github.com/S6-Daejeon4-Study/D4-4idiots-Study/blob/main/1%EC%A3%BC%EC%B0%A8/%EB%B0%B1%EC%A4%80%206603%20%EB%A1%9C%EB%98%90/B6603_%EB%A1%9C%EB%98%90_%EC%9D%B4%EC%98%88%EB%82%98.java)
+- [백준 8979 올림픽](https://github.com/S6-Daejeon4-Study/D4-4idiots-Study/blob/main/1%EC%A3%BC%EC%B0%A8/%EB%B0%B1%EC%A4%80%208979%20%EC%98%AC%EB%A6%BC%ED%94%BD/B8979_%EC%98%AC%EB%A6%BC%ED%94%BD_%EC%9D%B4%EC%98%88%EB%82%98.java)
 
 ### 한선규
 
