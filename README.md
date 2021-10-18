@@ -44,3 +44,10 @@
 2. 마법사 상어와 비바라기 (골드5) https://www.acmicpc.net/problem/21610
 >프로그래머스
 1. 주식 가격 (Lv.2) https://programmers.co.kr/learn/courses/30/lessons/42584
+
+## 4주차
+### 일정 : 10/17 ~ 10/24
+### 스터디 : SW 모의역량 테스트 및 기업 코딩 테스트로 개개인이 별도로 스터디 할 것
+### 주제
+>SWEA
+1. 견우와 직녀 (D4) https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWSHOpR6f_sDFARw
