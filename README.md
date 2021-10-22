@@ -49,5 +49,5 @@
 ### 일정 : 10/17 ~ 10/24
 ### 스터디 : SW 모의역량 테스트 및 기업 코딩 테스트로 개개인이 별도로 스터디 할 것
 ### 주제
->SWEA
-1. 견우와 직녀 (D4) https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWSHOpR6f_sDFARw
+>프로그래머스
+1. 디스크 컨트롤러 (Lv.3) https://programmers.co.kr/learn/courses/30/lessons/42627
