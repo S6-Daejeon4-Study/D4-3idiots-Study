@@ -23,7 +23,7 @@
 ### 안정석
 
 - [프로그래머스 42627 디스크 컨트롤러]()
-- [복습문제]()
+- [복습문제](https://github.com/S6-Daejeon4-Study/D4-4idiots-Study/blob/main/5%EC%A3%BC%EC%B0%A8/%EB%B3%B5%EC%8A%B5%EB%AC%B8%EC%A0%9C/B1987_%EC%95%8C%ED%8C%8C%EB%B2%B3_%EC%95%88%EC%A0%95%EC%84%9D.java)
 
 ### 이예나
 
