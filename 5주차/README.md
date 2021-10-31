@@ -10,7 +10,7 @@
 
 |출처|문제번호|문제명|난이도|김지언|안정석|이예나|한선규|
 | :-: | :-: | :- | :-: | :-: | :-: | :-: | :-: |
-|프로그래머스|42627|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|LEVEL3|O|X|X|X|
+|프로그래머스|42627|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|LEVEL3|O|X|X|O|
 |복습문제||||||||
 
 ## 문제 업로드 현황
@@ -32,5 +32,5 @@
 
 ### 한선규
 
-- [프로그래머스 42627 디스크 컨트롤러]()
+- [프로그래머스 42627 디스크 컨트롤러](https://github.com/S6-Daejeon4-Study/D4-4idiots-Study/blob/main/5%EC%A3%BC%EC%B0%A8/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%2042627%20%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC/P42627_%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC_%ED%95%9C%EC%84%A0%EA%B7%9C.java)
 - [복습문제]()
