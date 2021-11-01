@@ -57,3 +57,12 @@
 1. 디스크 컨트롤러 (Lv.3) https://programmers.co.kr/learn/courses/30/lessons/42627
 >복습
 1. 지금까지 풀었던 문제 or 배웠던 개념으로 풀 수 있는 문제 중에서 하나 선택해서 풀기
+
+## 6주차
+### 일정 : 11/2 ~ 11/8
+### 스터디 : 11/8 오후 11시 (디스코드)
+### 주제
+>프로그래머스
+1. 가장 먼 노드 (Lv.3) https://programmers.co.kr/learn/courses/30/lessons/49189
+>백준
+1. 평범한 배낭 (골드5) https://www.acmicpc.net/problem/12865
