@@ -73,4 +73,4 @@
 ### 주제
 > 프로그래머스
 1. 네트워크 (Lv.3) https://programmers.co.kr/learn/courses/30/lessons/43162
-2. 정수삼격형 (Lv.3) https://programmers.co.kr/learn/courses/30/lessons/43105
+2. 정수삼각형 (Lv.3) https://programmers.co.kr/learn/courses/30/lessons/43105
