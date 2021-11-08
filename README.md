@@ -66,3 +66,11 @@
 1. 가장 먼 노드 (Lv.3) https://programmers.co.kr/learn/courses/30/lessons/49189
 >백준
 1. 평범한 배낭 (골드5) https://www.acmicpc.net/problem/12865
+
+## 7주차
+### 일정 : 11/9 ~ 11/13
+### 스터디 : 11/14 오전 11시 (디스코드)
+### 주제
+> 프로그래머스
+1. 네트워크 (Lv.3) https://programmers.co.kr/learn/courses/30/lessons/43162
+2. 정수삼격형 (Lv.3) https://programmers.co.kr/learn/courses/30/lessons/43105
