@@ -74,3 +74,11 @@
 > 프로그래머스
 1. 네트워크 (Lv.3) https://programmers.co.kr/learn/courses/30/lessons/43162
 2. 정수삼각형 (Lv.3) https://programmers.co.kr/learn/courses/30/lessons/43105
+
+## 8주차
+### 일정 : 11/14 ~ 11/20
+### 스터디 : 11/21 오전 11시 (디스코드)
+### 주제
+> 백준
+1. 타임머신 (골드4) https://www.acmicpc.net/problem/11657
+2. 파일합치기 (골드3) https://www.acmicpc.net/problem/11066
