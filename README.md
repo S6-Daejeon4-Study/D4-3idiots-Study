@@ -83,3 +83,13 @@
 > 백준
 1. 타임머신 (골드4) https://www.acmicpc.net/problem/11657
 2. 파일합치기 (골드3) https://www.acmicpc.net/problem/11066
+
+## 9주차
+### 일정 : 12/07 ~ 12/12
+### 스터디 : 12/12 오후 10시 (디스코드)
+### 참고사항 : 8주차 파일합치기 문제 재도전..!!
+### 주제
+> 백준
+1. 알약 (골드5) https://www.acmicpc.net/problem/4811
+2. 특정한 최단 경로(골드4) https://www.acmicpc.net/problem/1504
+3. 파일합치기 (골드3) https://www.acmicpc.net/problem/11066
