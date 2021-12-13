@@ -93,3 +93,12 @@
 1. 알약 (골드5) https://www.acmicpc.net/problem/4811
 2. 특정한 최단 경로(골드4) https://www.acmicpc.net/problem/1504
 3. 파일합치기 (골드3) https://www.acmicpc.net/problem/11066
+
+## 10주차
+### 일정 : 12/13 ~ 12/12
+### 스터디 : 12/20 오후 10시 (디스코드)
+### 참고사항 : 8주차 파일합치기... 안녕..! (교수님 풀이 기다리는 중)
+### 주제
+> 프로그래머스
+1. 단어 변환(Lv.3) https://programmers.co.kr/learn/courses/30/lessons/42628
+2. 이중우선순위큐(Lv.3) https://programmers.co.kr/learn/courses/30/lessons/43163
