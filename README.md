@@ -102,3 +102,11 @@
 > 프로그래머스
 1. 단어 변환(Lv.3) https://programmers.co.kr/learn/courses/30/lessons/43163
 2. 이중우선순위큐(Lv.3) https://programmers.co.kr/learn/courses/30/lessons/42628
+
+## 11주차
+### 일정 : 12/21 ~ 12/27
+### 스터디 : 12/27 오후 10시 (디스코드)
+### 참고사항 : 크리스마스도 있으니 쉬엄쉬엄 하기위해서 한문제로 픽!
+### 주제
+> 프로그래머스
+1. 단속카메라(Lv.3) https://programmers.co.kr/learn/courses/30/lessons/42884
