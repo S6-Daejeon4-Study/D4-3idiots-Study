@@ -185,3 +185,18 @@
 
 1. 여행경로(Lv.3) https://programmers.co.kr/learn/courses/30/lessons/43164
 2. 징검다리 건너기(Lv.3) https://programmers.co.kr/learn/courses/30/lessons/64062
+
+## 13주차
+
+### 일정 : 1/5 ~ 1/10
+
+### 스터디 : 1/10 오후 10시 (디스코드)
+
+### 참고사항 : 오픈채팅방은 선택으로 푸세요~
+
+### 주제
+
+> 프로그래머스
+
+1. 입국심사(Lv.3) https://programmers.co.kr/learn/courses/30/lessons/43238
+2. 오픈채팅방(Lv.2) https://programmers.co.kr/learn/courses/30/lessons/42888
