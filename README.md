@@ -200,3 +200,16 @@
 
 1. 입국심사(Lv.3) https://programmers.co.kr/learn/courses/30/lessons/43238
 2. 오픈채팅방(Lv.2) https://programmers.co.kr/learn/courses/30/lessons/42888
+
+## 14주차
+
+### 일정 : 1/11 ~ 1/17
+
+### 스터디 : 1/17 오후 10시 (디스코드)
+
+### 주제
+
+> 백준
+
+1. 빙산(골드4) https://www.acmicpc.net/problem/2573
+2. 바이러스(실버3) https://www.acmicpc.net/problem/2606
