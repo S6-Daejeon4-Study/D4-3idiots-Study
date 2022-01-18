@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class Main_빙산_2573 {
 
     static int N,M, years =0;
     static int[][] arr;
@@ -28,7 +28,7 @@ public class Main {
         } // Input
 
         while(true){
-            int flag=0,count=0;
+            int count=0;
             visited = new boolean[N][M];
 
             for(int i=1;i<N;i++){
@@ -40,11 +40,10 @@ public class Main {
                             System.exit(0);
                         }
                         bfs(i,j,arr[i][j]);
-                        flag = 1;
                     }
                 }
             }
-            if(flag == 0){
+            if(count == 0){
                 System.out.println(0);
                 System.exit(0);
             }
@@ -63,7 +62,7 @@ public class Main {
         visited[i][j] = true;
 
         while(!queue.isEmpty()){
-            Node now = queue.peek();
+            Node now = queue.poll();
 
             int x = now.x, y = now.y, nx = 0,ny = 0;
 
@@ -82,7 +81,7 @@ public class Main {
                 }
             }
 
-            queue.remove();
+
         }
     }
 
