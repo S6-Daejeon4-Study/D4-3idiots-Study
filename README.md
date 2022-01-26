@@ -38,6 +38,7 @@
 [13주차](#13주차)
 [14주차](#14주차)
 [15주차](#15주차)
+[16주차](#16주차)
 
 ---
 
@@ -247,3 +248,26 @@
 
 1. 최소 스패닝 트리(골드4) https://www.acmicpc.net/problem/1197
 2. 상근이의 여행(실버3) https://www.acmicpc.net/problem/9372
+
+## 16주차
+
+### 일정 : 1/26 ~ 2/7
+
+### 스터디 : 2/7 오후 10시 (디스코드)
+
+### 참고사항 : 설날연휴 잘보내고 오세요 ~~
+
+### 주제
+
+> 프로그래머스
+
+1. 베스트앨범(Lv.3) https://programmers.co.kr/learn/courses/30/lessons/42579
+
+> HackerRank
+
+1. Revising the Select Query I https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
+2. Revising the Select Query II https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true
+3. Select All https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true
+4. Select By ID https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true
+5. Japanese Cities' Attributes https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
+6. Japanese Cities' Names https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true
