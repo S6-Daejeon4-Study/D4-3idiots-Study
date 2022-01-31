@@ -13,11 +13,11 @@
 | :----------: | :------: | :-------------------------- | :-----: | :----: | :----: | :----: | :----: |
 | 프로그래머스 |  42579   | 베스트앨범                  | LEVEL 3 |   X    |   X    |   X    |   X    |
 |  HackerRank  |          | Revising the Select Query Ⅰ |  Easy   |   X    |   O    |   X    |   X    |
-|  HackerRank  |          | Revising the Select Query Ⅱ |  Easy   |   X    |   X    |   X    |   X    |
-|  HackerRank  |          | Select All                  |  Easy   |   X    |   X    |   X    |   X    |
-|  HackerRank  |          | Select By ID                |  Easy   |   X    |   X    |   X    |   X    |
-|  HackerRank  |          | Japanese Cities` Attributes |  Easy   |   X    |   X    |   X    |   X    |
-|  HackerRank  |          | Japanese Cities` Names      |  Easy   |   X    |   X    |   X    |   X    |
+|  HackerRank  |          | Revising the Select Query Ⅱ |  Easy   |   X    |   O    |   X    |   X    |
+|  HackerRank  |          | Select All                  |  Easy   |   X    |   O    |   X    |   X    |
+|  HackerRank  |          | Select By ID                |  Easy   |   X    |   O    |   X    |   X    |
+|  HackerRank  |          | Japanese Cities` Attributes |  Easy   |   X    |   O    |   X    |   X    |
+|  HackerRank  |          | Japanese Cities` Names      |  Easy   |   X    |   O    |   X    |   X    |
 
 ## 문제 업로드 현황
 
@@ -35,11 +35,11 @@
 
 - [프로그래머스 42579 베스트앨범]()
 - [HackerRank Revising the Select Query Ⅰ](%5BHackerRank%5D%20Revising%20the%20Select%20Query%20Ⅰ/H_Revising%20the%20Select%20Query%20Ⅰ_김지언.sql)
-- [HackerRank Revising the Select Query Ⅱ]()
-- [HackerRank Select All]()
-- [HackerRank Select By ID]()
-- [HackerRank Japanese Cities` Attributes]()
-- [HackerRank Japanese Cities` Names]()
+- [HackerRank Revising the Select Query Ⅱ](%5BHackerRank%5D%20Revising%20the%20Select%20Query%20Ⅱ/H_Revising%20the%20Select%20Query%20Ⅱ_김지언.sql)
+- [HackerRank Select All](%5BHackerRank%5D%20Select%20All/H_Select%20All_김지언.sql)
+- [HackerRank Select By ID](%5BHackerRank%5D%20Select%20By%20ID/H_Select%20By%20ID_김지언.sql)
+- [HackerRank Japanese Cities` Attributes](%5BHackerRank%5D%20Japanese%20Cities%60%20Attributes/H_Japanese%20Cities%60%20Attributes_김지언.sql)
+- [HackerRank Japanese Cities` Names](%5BHackerRank%5D%20Japanese%20Cities%60%20Names/H_Japanese%20Cities%60%20Names_김지언.sql)
 
 ### 이예나
 
