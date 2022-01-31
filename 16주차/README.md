@@ -34,7 +34,7 @@
 ### 김지언
 
 - [프로그래머스 42579 베스트앨범]()
-- [HackerRank Revising the Select Query Ⅰ]([HackerRank] Revising the Select Query Ⅰ/H_Revising the Select Query Ⅰ_김지언.sql)
+- [HackerRank Revising the Select Query Ⅰ](%5BHackerRank%5D%20Revising%20the%20Select%20Query%20Ⅰ/H_Revising%20the%20Select%20Query%20Ⅰ_김지언.sql)
 - [HackerRank Revising the Select Query Ⅱ]()
 - [HackerRank Select All]()
 - [HackerRank Select By ID]()
