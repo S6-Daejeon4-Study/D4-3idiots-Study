@@ -11,7 +11,7 @@
 
 |     출처     | 문제번호 | 문제명                      | 난이도  | 김응철 | 김지언 | 이예나 | 한선규 |
 | :----------: | :------: | :-------------------------- | :-----: | :----: | :----: | :----: | :----: |
-| 프로그래머스 |  42579   | 베스트앨범                  | LEVEL 3 |   X    |   X    |   X    |   X    |
+| 프로그래머스 |  42579   | 베스트앨범                  | LEVEL 3 |   X    |   O    |   X    |   X    |
 |  HackerRank  |          | Revising the Select Query Ⅰ |  Easy   |   X    |   O    |   X    |   X    |
 |  HackerRank  |          | Revising the Select Query Ⅱ |  Easy   |   X    |   O    |   X    |   X    |
 |  HackerRank  |          | Select All                  |  Easy   |   X    |   O    |   X    |   X    |
@@ -33,7 +33,7 @@
 
 ### 김지언
 
-- [프로그래머스 42579 베스트앨범]()
+- [프로그래머스 42579 베스트앨범](프로그래머스%2042579%20베스트앨범/P42579_베스트앨범_김지언.java)
 - [HackerRank Revising the Select Query Ⅰ](%5BHackerRank%5D%20Revising%20the%20Select%20Query%20Ⅰ/H_Revising%20the%20Select%20Query%20Ⅰ_김지언.sql)
 - [HackerRank Revising the Select Query Ⅱ](%5BHackerRank%5D%20Revising%20the%20Select%20Query%20Ⅱ/H_Revising%20the%20Select%20Query%20Ⅱ_김지언.sql)
 - [HackerRank Select All](%5BHackerRank%5D%20Select%20All/H_Select%20All_김지언.sql)
