@@ -11,13 +11,13 @@
 
 |     출처     | 문제번호 | 문제명                      | 난이도  | 김응철 | 김지언 | 이예나 | 한선규 |
 | :----------: | :------: | :-------------------------- | :-----: | :----: | :----: | :----: | :----: |
-| 프로그래머스 |  42579   | 베스트앨범                  | LEVEL 3 |   X    |   O    |   X    |   X    |
-|  HackerRank  |          | Revising the Select Query Ⅰ |  Easy   |   O    |   O    |   X    |   X    |
-|  HackerRank  |          | Revising the Select Query Ⅱ |  Easy   |   O    |   O    |   X    |   X    |
-|  HackerRank  |          | Select All                  |  Easy   |   O    |   O    |   X    |   X    |
-|  HackerRank  |          | Select By ID                |  Easy   |   O    |   O    |   X    |   X    |
-|  HackerRank  |          | Japanese Cities` Attributes |  Easy   |   O    |   O    |   X    |   X    |
-|  HackerRank  |          | Japanese Cities` Names      |  Easy   |   O    |   O    |   X    |   X    |
+| 프로그래머스 |  42579   | 베스트앨범                  | LEVEL 3 |   X    |   O    |   X    |   O    |
+|  HackerRank  |          | Revising the Select Query Ⅰ |  Easy   |   O    |   O    |   X    |   O    |
+|  HackerRank  |          | Revising the Select Query Ⅱ |  Easy   |   O    |   O    |   X    |   O    |
+|  HackerRank  |          | Select All                  |  Easy   |   O    |   O    |   X    |   O    |
+|  HackerRank  |          | Select By ID                |  Easy   |   O    |   O    |   X    |   O    |
+|  HackerRank  |          | Japanese Cities` Attributes |  Easy   |   O    |   O    |   X    |   O    |
+|  HackerRank  |          | Japanese Cities` Names      |  Easy   |   O    |   O    |   X    |   O    |
 
 ## 문제 업로드 현황
 
@@ -53,10 +53,10 @@
 
 ### 한선규
 
-- [프로그래머스 42579 베스트앨범]()
-- [HackerRank Revising the Select Query Ⅰ]()
-- [HackerRank Revising the Select Query Ⅱ]()
-- [HackerRank Select All]()
-- [HackerRank Select By ID]()
-- [HackerRank Japanese Cities` Attributes]()
-- [HackerRank Japanese Cities` Names]()
+- [프로그래머스 42579 베스트앨범](프로그래머스%2042579%20베스트앨범/P42579_베스트앨범_한선규.java)
+- [HackerRank Revising the Select Query Ⅰ](%5BHackerRank%5D%20Revising%20the%20Select%20Query%20Ⅰ/H_Revising%20the%20Select%20Query%20Ⅰ_한선규.sql)
+- [HackerRank Revising the Select Query Ⅱ](%5BHackerRank%5D%20Revising%20the%20Select%20Query%20Ⅱ/H_Revising%20the%20Select%20Query%20Ⅱ_한선규.sql)
+- [HackerRank Select All](%5BHackerRank%5D%20Select%20All/H_Select%20All_한선규.sql)
+- [HackerRank Select By ID](%5BHackerRank%5D%20Select%20By%20ID/H_Select%20By%20ID_한선규.sql)
+- [HackerRank Japanese Cities` Attributes](%5BHackerRank%5D%20Japanese%20Cities%60%20Attributes/H_Japanese%20Cities%60%20Attributes_한선규.sql)
+- [HackerRank Japanese Cities` Names](%5BHackerRank%5D%20Japanese%20Cities%60%20Names/H_Japanese%20Cities%60%20Names_한선규.sql)
