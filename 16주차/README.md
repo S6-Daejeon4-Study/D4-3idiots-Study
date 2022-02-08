@@ -12,12 +12,12 @@
 |     출처     | 문제번호 | 문제명                      | 난이도  | 김응철 | 김지언 | 이예나 | 한선규 |
 | :----------: | :------: | :-------------------------- | :-----: | :----: | :----: | :----: | :----: |
 | 프로그래머스 |  42579   | 베스트앨범                  | LEVEL 3 |   X    |   O    |   O    |   O    |
-|  HackerRank  |          | Revising the Select Query Ⅰ |  Easy   |   O    |   O    |   X    |   O    |
-|  HackerRank  |          | Revising the Select Query Ⅱ |  Easy   |   O    |   O    |   X    |   O    |
-|  HackerRank  |          | Select All                  |  Easy   |   O    |   O    |   X    |   O    |
-|  HackerRank  |          | Select By ID                |  Easy   |   O    |   O    |   X    |   O    |
-|  HackerRank  |          | Japanese Cities` Attributes |  Easy   |   O    |   O    |   X    |   O    |
-|  HackerRank  |          | Japanese Cities` Names      |  Easy   |   O    |   O    |   X    |   O    |
+|  HackerRank  |          | Revising the Select Query Ⅰ |  Easy   |   O    |   O    |   O    |   O    |
+|  HackerRank  |          | Revising the Select Query Ⅱ |  Easy   |   O    |   O    |   O    |   O    |
+|  HackerRank  |          | Select All                  |  Easy   |   O    |   O    |   O    |   O    |
+|  HackerRank  |          | Select By ID                |  Easy   |   O    |   O    |   O    |   O    |
+|  HackerRank  |          | Japanese Cities` Attributes |  Easy   |   O    |   O    |   O    |   O    |
+|  HackerRank  |          | Japanese Cities` Names      |  Easy   |   O    |   O    |   O    |   O    |
 
 ## 문제 업로드 현황
 

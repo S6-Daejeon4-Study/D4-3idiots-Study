@@ -39,6 +39,7 @@
 [14주차](#14주차)
 [15주차](#15주차)
 [16주차](#16주차)
+[17주차](#17주차)
 
 ---
 
@@ -271,3 +272,30 @@
 4. Select By ID https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true
 5. Japanese Cities' Attributes https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
 6. Japanese Cities' Names https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true
+
+## 17주차
+
+### 일정 : 2/9 ~ 2/14
+
+### 스터디 : 2/14 오후 10시 (디스코드)
+
+### 주제
+
+> 프로그래머스
+
+1. 더 맵게(Lv.2) https://programmers.co.kr/learn/courses/30/lessons/42626
+
+> HackerRank
+
+1. Weather Observation Station 1 https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true
+2. Weather Observation Station 2 https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true
+3. Weather Observation Station 3 https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true
+4. Weather Observation Station 4 https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true
+5. Weather Observation Station 5 https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true
+6. Weather Observation Station 6 https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true
+7. Weather Observation Station 7 https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true
+8. Weather Observation Station 8 https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true
+9. Weather Observation Station 9 https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true
+10. Weather Observation Station 10 https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true
+11. Weather Observation Station 11 https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true
+12. Weather Observation Station 12 https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true
