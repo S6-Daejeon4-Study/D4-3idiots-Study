@@ -11,7 +11,7 @@
 
 |     출처     | 문제번호 | 문제명                         | 난이도  | 김응철 | 김지언 | 이예나 | 한선규 |
 | :----------: | :------: | :----------------------------- | :-----: | :----: | :----: | :----: | :----: |
-| 프로그래머스 |  42626   | 더 맵게                        | LEVEL 2 |   X    |   O    |   X    |   X    |
+| 프로그래머스 |  42626   | 더 맵게                        | LEVEL 2 |   X    |   O    |   O    |   X    |
 |  HackerRank  |          | Weather Observation Station 1  |  Easy   |   X    |   O    |   X    |   X    |
 |  HackerRank  |          | Weather Observation Station 3  |  Easy   |   X    |   O    |   X    |   X    |
 |  HackerRank  |          | Weather Observation Station 4  |  Easy   |   X    |   O    |   X    |   X    |
