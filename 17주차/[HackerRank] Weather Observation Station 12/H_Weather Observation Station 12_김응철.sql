@@ -1,0 +1,1 @@
+select distinct CITY from STATION where (CITY RLike '^[^a^e^i^o^u^A^E^I^O^U]' and CITY RLike '[^a^e^i^o^u^A^E^I^O^U]$')

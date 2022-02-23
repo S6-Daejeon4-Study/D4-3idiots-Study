@@ -1,0 +1,1 @@
+select CITY from STATION where (CITY Rlike '^[aeiouAEIOU]' and CITY Rlike '[aeiouAEIOU]$')
