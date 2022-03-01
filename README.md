@@ -299,3 +299,23 @@
 10. Weather Observation Station 10 https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true
 11. Weather Observation Station 11 https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true
 12. Weather Observation Station 12 https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true
+
+## 18주차
+
+### 일정 : 2/9 ~ 2/14
+
+### 스터디 : 3/2 오후 10시 (디스코드)
+
+### 주제
+
+> 프로그래머스
+
+1. 짝지어 제거하기(Lv.2) https://programmers.co.kr/learn/courses/30/lessons/12973
+2. 순위(Lv.3) https://programmers.co.kr/learn/courses/30/lessons/49191
+
+> HackerRank
+
+1. Higher Than 75 Marks https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true
+2. Employee Names https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true
+3. Employee Salaries https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true
+4. Type of Triangle https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true
