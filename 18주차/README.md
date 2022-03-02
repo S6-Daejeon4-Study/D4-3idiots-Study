@@ -12,7 +12,7 @@
 |     출처     | 문제번호 | 문제명               | 난이도  | 김응철 | 김지언 | 이예나 | 한선규 |
 | :----------: | :------: | :------------------- | :-----: | :----: | :----: | :----: | :----: |
 | 프로그래머스 |  12973   | 짝지어 제거하기      | LEVEL 2 |   X    |   X    |   X    |   X    |
-| 프로그래머스 |  49191   | 순위                 | LEVEL 2 |   X    |   X    |   X    |   X    |
+| 프로그래머스 |  49191   | 순위                 | LEVEL 3 |   X    |   X    |   X    |   X    |
 |  HackerRank  |          | Higher Than 75 Marks |  Easy   |   X    |   X    |   X    |   X    |
 |  HackerRank  |          | Employee Names       |  Easy   |   X    |   X    |   X    |   X    |
 |  HackerRank  |          | Employee Salaries    |  Easy   |   X    |   X    |   X    |   X    |
