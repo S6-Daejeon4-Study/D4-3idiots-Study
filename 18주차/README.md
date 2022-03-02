@@ -22,12 +22,12 @@
 
 ### 김응철
 
-- [프로그래머스 12973 짝지어 제거하기]()
-- [프로그래머스 49191 순위]()
-- [HackerRank Higher Than 75 Marks]()
-- [HackerRank Employee Names]()
-- [HackerRank Employee Salaries]()
-- [HackerRank Type of Triangle]()
+- [프로그래머스 12973 짝지어 제거하기](https://github.com/S6-Daejeon4-Study/D4-4idiots-Study/blob/main/18%EC%A3%BC%EC%B0%A8/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%2012973%20%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/P12973_%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0_%EA%B9%80%EC%9D%91%EC%B2%A0.java)
+- [프로그래머스 49191 순위](https://github.com/S6-Daejeon4-Study/D4-4idiots-Study/blob/main/18%EC%A3%BC%EC%B0%A8/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%2049191%20%EC%88%9C%EC%9C%84/P49191_%EC%88%9C%EC%9C%84_%EA%B9%80%EC%9D%91%EC%B2%A0.java)
+- [HackerRank Higher Than 75 Marks](https://github.com/S6-Daejeon4-Study/D4-4idiots-Study/blob/main/18%EC%A3%BC%EC%B0%A8/%5BHackerRank%5D%20Hirgher%20Than%2075%20Marks/H_Higher%20Than%2075%20Marks_%EA%B9%80%EC%9D%91%EC%B2%A0.txt)
+- [HackerRank Employee Names](https://github.com/S6-Daejeon4-Study/D4-4idiots-Study/blob/main/18%EC%A3%BC%EC%B0%A8/%5BHackerRank%5D%20Employee%20Names/H_Employee%20Names_%EA%B9%80%EC%9D%91%EC%B2%A0.txt)
+- [HackerRank Employee Salaries](https://github.com/S6-Daejeon4-Study/D4-4idiots-Study/blob/main/18%EC%A3%BC%EC%B0%A8/%5BHackerRank%5D%20Employee%20Salaries/H_Employee%20Salaries_%EA%B9%80%EC%9D%91%EC%B2%A0.txt)
+- [HackerRank Type of Triangle](https://github.com/S6-Daejeon4-Study/D4-4idiots-Study/blob/main/18%EC%A3%BC%EC%B0%A8/%5BHackerRank%5D%20Type%20of%20Triangle/H_Type%20of%20Triangle_%EA%B9%80%EC%9D%91%EC%B2%A0.txt)
 
 ### 김지언
 
