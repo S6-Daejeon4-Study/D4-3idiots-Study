@@ -7,29 +7,34 @@ class Solution
 
         char[] ch = s.toCharArray();
         
-        LinkedList<Character> list = new LinkedList<>();
+        Stack<Character> stack1 = new Stack<Character>();
+        Stack<Character> stack2 = new Stack<Character>();
         
-        for(int i=0;i<ch.length;i++){
-            list.add(ch[i]);
+        for(int i=ch.length-1;i>=0;i--){
+            stack1.push(ch[i]);
         }
         
+        char tmp = stack1.pop();
+        
+        stack2.push(tmp);
+        
         while(true){
-            if(list.size() == 0){
+        
+            if(stack1.isEmpty() && stack2.isEmpty()){
                 answer = 1;
                 break;
             }
-            int flag = 0;
-            for(int i=0;i<list.size()-1;i++){
-                if(list.get(i).equals(list.get(i+1))){
-                    list.remove(i);
-                    list.remove(i);
-                    break;
-                }
-                if(i == list.size()-2)
-                    flag = 1;
-            }
-            if(flag == 1)
+            else if(stack1.isEmpty() && stack2.size()!=0)
                 break;
+            
+            tmp = stack1.pop();
+            if(!stack2.isEmpty() && stack2.peek().equals(tmp)){
+                stack2.pop();
+            }
+            else{
+                stack2.push(tmp);
+            }
+            
         }
         
         return answer;
