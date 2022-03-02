@@ -13,10 +13,10 @@
 | :----------: | :------: | :------------------- | :-----: | :----: | :----: | :----: | :----: |
 | 프로그래머스 |  12973   | 짝지어 제거하기      | LEVEL 2 |   X    |   X    |   X    |   X    |
 | 프로그래머스 |  49191   | 순위                 | LEVEL 3 |   X    |   X    |   X    |   X    |
-|  HackerRank  |          | Higher Than 75 Marks |  Easy   |   X    |   X    |   X    |   X    |
-|  HackerRank  |          | Employee Names       |  Easy   |   X    |   X    |   X    |   X    |
-|  HackerRank  |          | Employee Salaries    |  Easy   |   X    |   X    |   X    |   X    |
-|  HackerRank  |          | Type of Triangle     |  Easy   |   X    |   X    |   X    |   X    |
+|  HackerRank  |          | Higher Than 75 Marks |  Easy   |   O    |   X    |   X    |   X    |
+|  HackerRank  |          | Employee Names       |  Easy   |   O    |   X    |   X    |   X    |
+|  HackerRank  |          | Employee Salaries    |  Easy   |   O    |   X    |   X    |   X    |
+|  HackerRank  |          | Type of Triangle     |  Easy   |   O    |   X    |   X    |   X    |
 
 ## 문제 업로드 현황
 
