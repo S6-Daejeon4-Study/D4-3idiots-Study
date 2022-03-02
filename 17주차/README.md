@@ -11,18 +11,18 @@
 
 |     출처     | 문제번호 | 문제명                         | 난이도  | 김응철 | 김지언 | 이예나 | 한선규 |
 | :----------: | :------: | :----------------------------- | :-----: | :----: | :----: | :----: | :----: |
-| 프로그래머스 |  42626   | 더 맵게                        | LEVEL 2 |   X    |   O    |   O    |   O    |
-|  HackerRank  |          | Weather Observation Station 1  |  Easy   |   X    |   O    |   O    |   X    |
-|  HackerRank  |          | Weather Observation Station 3  |  Easy   |   X    |   O    |   O    |   X    |
-|  HackerRank  |          | Weather Observation Station 4  |  Easy   |   X    |   O    |   O    |   X    |
-|  HackerRank  |          | Weather Observation Station 5  |  Easy   |   X    |   O    |   O    |   X    |
-|  HackerRank  |          | Weather Observation Station 6  |  Easy   |   X    |   O    |   O    |   X    |
-|  HackerRank  |          | Weather Observation Station 7  |  Easy   |   X    |   O    |   O    |   X    |
-|  HackerRank  |          | Weather Observation Station 8  |  Easy   |   X    |   O    |   O    |   X    |
-|  HackerRank  |          | Weather Observation Station 9  |  Easy   |   X    |   O    |   O    |   X    |
-|  HackerRank  |          | Weather Observation Station 10 |  Easy   |   X    |   O    |   O    |   X    |
-|  HackerRank  |          | Weather Observation Station 11 |  Easy   |   X    |   O    |   O    |   X    |
-|  HackerRank  |          | Weather Observation Station 12 |  Easy   |   X    |   O    |   O    |   X    |
+| 프로그래머스 |  42626   | 더 맵게                        | LEVEL 2 |   O    |   O    |   O    |   O    |
+|  HackerRank  |          | Weather Observation Station 1  |  Easy   |   O    |   O    |   O    |   X    |
+|  HackerRank  |          | Weather Observation Station 3  |  Easy   |   O    |   O    |   O    |   X    |
+|  HackerRank  |          | Weather Observation Station 4  |  Easy   |   O    |   O    |   O    |   X    |
+|  HackerRank  |          | Weather Observation Station 5  |  Easy   |   O    |   O    |   O    |   X    |
+|  HackerRank  |          | Weather Observation Station 6  |  Easy   |   O    |   O    |   O    |   X    |
+|  HackerRank  |          | Weather Observation Station 7  |  Easy   |   O    |   O    |   O    |   X    |
+|  HackerRank  |          | Weather Observation Station 8  |  Easy   |   O    |   O    |   O    |   X    |
+|  HackerRank  |          | Weather Observation Station 9  |  Easy   |   O    |   O    |   O    |   X    |
+|  HackerRank  |          | Weather Observation Station 10 |  Easy   |   O    |   O    |   O    |   X    |
+|  HackerRank  |          | Weather Observation Station 11 |  Easy   |   O    |   O    |   O    |   X    |
+|  HackerRank  |          | Weather Observation Station 12 |  Easy   |   O    |   O    |   O    |   X    |
 
 ## 문제 업로드 현황
 
