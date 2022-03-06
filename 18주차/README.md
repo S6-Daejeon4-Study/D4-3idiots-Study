@@ -13,10 +13,10 @@
 | :----------: | :------: | :------------------- | :-----: | :----: | :----: | :----: | :----: |
 | 프로그래머스 |  12973   | 짝지어 제거하기      | LEVEL 2 |   O    |   O    |   O    |   O    |
 | 프로그래머스 |  49191   | 순위                 | LEVEL 3 |   O    |   X    |   O    |   O    |
-|  HackerRank  |          | Higher Than 75 Marks |  Easy   |   O    |   O    |   X    |   O    |
-|  HackerRank  |          | Employee Names       |  Easy   |   O    |   O    |   X    |   O    |
-|  HackerRank  |          | Employee Salaries    |  Easy   |   O    |   O    |   X    |   O    |
-|  HackerRank  |          | Type of Triangle     |  Easy   |   O    |   X    |   X    |   O    |
+|  HackerRank  |          | Higher Than 75 Marks |  Easy   |   O    |   O    |   O    |   O    |
+|  HackerRank  |          | Employee Names       |  Easy   |   O    |   O    |   O    |   O    |
+|  HackerRank  |          | Employee Salaries    |  Easy   |   O    |   O    |   O    |   O    |
+|  HackerRank  |          | Type of Triangle     |  Easy   |   O    |   X    |   O    |   O    |
 
 ## 문제 업로드 현황
 
@@ -42,10 +42,10 @@
 
 - [프로그래머스 12973 짝지어 제거하기](프로그래머스%2012973%20짝지어%20제거하기/P12973_짝지어제거하기_이예나.java)
 - [프로그래머스 49191 순위](프로그래머스%2049191%20순위/P49191_순위_이예나.java)
-- [HackerRank Higher Than 75 Marks]()
-- [HackerRank Employee Names]()
-- [HackerRank Employee Salaries]()
-- [HackerRank Type of Triangle]()
+- [HackerRank Higher Than 75 Marks](%5BHackerRank%5D%20Hirgher%20Than%2075%20Marks/H_Higher%20Than%2075%20Marks_이예나.sql)
+- [HackerRank Employee Names](%5BHackerRank%5D%20Employee%20Names/H_Employee%20Names_이예나.sql)
+- [HackerRank Employee Salaries](%5BHackerRank%5D%20Employee%20Salaries/H_Employee%20Salaries_이예나.sql)
+- [HackerRank Type of Triangle](%5BHackerRank%5D%20Type%20of%20Triangle/H_Type%20of%20Triangle_이예나.sql)
 
 ### 한선규
 
