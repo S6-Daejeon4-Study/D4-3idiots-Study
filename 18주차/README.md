@@ -11,12 +11,12 @@
 
 |     출처     | 문제번호 | 문제명               | 난이도  | 김응철 | 김지언 | 이예나 | 한선규 |
 | :----------: | :------: | :------------------- | :-----: | :----: | :----: | :----: | :----: |
-| 프로그래머스 |  12973   | 짝지어 제거하기      | LEVEL 2 |   O    |   O    |   O    |   X    |
-| 프로그래머스 |  49191   | 순위                 | LEVEL 3 |   O    |   X    |   O    |   X    |
-|  HackerRank  |          | Higher Than 75 Marks |  Easy   |   O    |   O    |   X    |   X    |
-|  HackerRank  |          | Employee Names       |  Easy   |   O    |   O    |   X    |   X    |
-|  HackerRank  |          | Employee Salaries    |  Easy   |   O    |   O    |   X    |   X    |
-|  HackerRank  |          | Type of Triangle     |  Easy   |   O    |   X    |   X    |   X    |
+| 프로그래머스 |  12973   | 짝지어 제거하기      | LEVEL 2 |   O    |   O    |   O    |   O    |
+| 프로그래머스 |  49191   | 순위                 | LEVEL 3 |   O    |   X    |   O    |   O    |
+|  HackerRank  |          | Higher Than 75 Marks |  Easy   |   O    |   O    |   X    |   O    |
+|  HackerRank  |          | Employee Names       |  Easy   |   O    |   O    |   X    |   O    |
+|  HackerRank  |          | Employee Salaries    |  Easy   |   O    |   O    |   X    |   O    |
+|  HackerRank  |          | Type of Triangle     |  Easy   |   O    |   X    |   X    |   O    |
 
 ## 문제 업로드 현황
 
@@ -49,8 +49,8 @@
 
 ### 한선규
 
-- [프로그래머스 12973 짝지어 제거하기]()
-- [프로그래머스 49191 순위]()
+- [프로그래머스 12973 짝지어 제거하기](프로그래머스%2012973%20짝지어%20제거하기/P12973_짝지어제거하기_한선규.java)
+- [프로그래머스 49191 순위](프로그래머스%2049191%20순위/P49191_순위_한선규.java)
 - [HackerRank Higher Than 75 Marks]()
 - [HackerRank Employee Names]()
 - [HackerRank Employee Salaries]()

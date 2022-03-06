@@ -1,0 +1,2 @@
+# 사원들의 이름순서로 정렬해서 조회
+SELECT NAME FROM EMPLOYEE ORDER BY NAME;
