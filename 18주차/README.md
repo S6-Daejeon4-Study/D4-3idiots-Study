@@ -51,7 +51,7 @@
 
 - [프로그래머스 12973 짝지어 제거하기](프로그래머스%2012973%20짝지어%20제거하기/P12973_짝지어제거하기_한선규.java)
 - [프로그래머스 49191 순위](프로그래머스%2049191%20순위/P49191_순위_한선규.java)
-- [HackerRank Higher Than 75 Marks]()
-- [HackerRank Employee Names]()
-- [HackerRank Employee Salaries]()
-- [HackerRank Type of Triangle]()
+- [HackerRank Higher Than 75 Marks](%5BHackerRank%5D%20Hirgher%20Than%2075%20Marks/H_Higher%20Than%2075%20Marks_한선규.sql)
+- [HackerRank Employee Names](%5BHackerRank%5D%20Employee%20Names/H_Employee%20Names_한선규.sql)
+- [HackerRank Employee Salaries](%5BHackerRank%5D%20Employee%20Salaries/H_Employee%20Salaries_한선규.sql)
+- [HackerRank Type of Triangle](%5BHackerRank%5D%20Type%20of%20Triangle/H_Type%20of%20Triangle_한선규.sql)
