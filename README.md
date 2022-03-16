@@ -41,6 +41,7 @@
 [16주차](#16주차)
 [17주차](#17주차)
 [18주차](#18주차)
+[19주차](#19주차)
 
 ---
 
@@ -322,3 +323,16 @@
 2. Employee Names https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true
 3. Employee Salaries https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true
 4. Type of Triangle https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true
+
+## 19주차
+
+### 일정 : 3/16 ~ 3/22
+
+### 스터디 : 3/22 오후 8시 (디스코드)
+
+### 주제
+
+> 
+
+1. 신나는 함수 실행(실버2) https://www.acmicpc.net/problem/9184
+2. 계단 오르기(실버3) https://www.acmicpc.net/problem/2579
