@@ -334,5 +334,5 @@
 
 > 백준
 
-1. 신나는 함수 실행(실버2) https://www.acmicpc.net/problem/9184
-2. 계단 오르기(실버3) https://www.acmicpc.net/problem/2579
+1. 계단 오르기(실버3) https://www.acmicpc.net/problem/2579
+2. 신나는 함수 실행(실버2) https://www.acmicpc.net/problem/9184
