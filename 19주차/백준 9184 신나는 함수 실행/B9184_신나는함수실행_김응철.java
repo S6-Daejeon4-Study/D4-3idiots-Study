@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main_신나는함수실행_9184 {
+public class B9184_신나는함수실행_김응철 {
 
     static int[][][] abc = new int[21][21][21];
 
