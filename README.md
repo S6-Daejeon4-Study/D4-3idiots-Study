@@ -351,5 +351,5 @@
 1. 이진 검색 트리(골드1) https://www.acmicpc.net/problem/5639
 
 > CS
-1. [SQL] Injection 학습 https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Database/SQL%20Injection.md
-2. [SQL] SQL vs NoSQL 학습 https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Database/SQL%EA%B3%BC%20NOSQL%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md
+1. [CS] SQL Injection 학습 https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Database/SQL%20Injection.md
+2. [CS] SQL vs NoSQL 학습 https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Database/SQL%EA%B3%BC%20NOSQL%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md
