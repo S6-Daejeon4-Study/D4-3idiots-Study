@@ -44,6 +44,8 @@
 [19주차](#19주차)
 [20주차](#20주차)
 
+[21주차](#21주차)
+
 ---
 
 ## 1주차
@@ -351,5 +353,23 @@
 1. 이진 검색 트리(골드1) https://www.acmicpc.net/problem/5639
 
 > CS
+
 1. [SQL] SQL Injection 학습 https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Database/SQL%20Injection.md
 2. [SQL] SQL vs NoSQL 학습 https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Database/SQL%EA%B3%BC%20NOSQL%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md
+
+## 21주차
+
+### 일정 : 3/30 ~ 4/5
+
+### 스터디 : 4/5 오후 8시 (디스코드)
+
+### 주제
+
+> 백준
+
+1. 로봇 청소기(골드5) https://www.acmicpc.net/problem/14503
+
+> CS
+
+1. [데이터베이스] 인덱스(Index) 학습 https://gyoogle.dev/blog/computer-science/data-base/Index-.html
+2. [데이터베이스] 트랜잭션(Transaction) 학습 https://gyoogle.dev/blog/computer-science/data-base/Transaction.html
